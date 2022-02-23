@@ -14,6 +14,8 @@ The first gate to enter the API Security Empire is to know how to gather informa
 
 <div align="center">
 <img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%">
+  
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf">PDF Version</a></b></small>
 </div>
 <br>
 
