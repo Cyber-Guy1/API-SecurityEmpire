@@ -35,6 +35,16 @@ The first gate to enter the API Security Empire is to know how to gather informa
 ## 🚪 Second gate: ```{{Exploitation}}```
 Preparing ...
 
+## 🙏 Special thanks:
+- [roottusk](https://github.com/roottusk)
+- [Portswigger](https://github.com/PortSwigger)
+- [Tomnomnom](https://github.com/tomnomnom)
+- [assetnote](https://github.com/assetnote/kiterunner)
+- [danielmiessler](https://github.com/danielmiessler)
+- [InsiderPhD](https://github.com/InsiderPhD)
+- [ffuf](https://github.com/ffuf/)
+
+
 ## 📝 License:
 
 <img src="https://user-images.githubusercontent.com/97954690/155418561-30c6292d-877c-4acf-ac90-531d8661a455.png" width="20%" height="20%">
