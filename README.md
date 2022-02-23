@@ -25,6 +25,10 @@ The first gate to enter the API Security Empire is to know how to gather informa
 - [Arjun](https://github.com/InsiderPhD/Arjun)
 - [Postman](https://www.postman.com/downloads/)
 - [SecLists](https://github.com/danielmiessler/SecLists/tree/master/Discovery/Web-Content)
+- [SoapUI](https://www.soapui.org/downloads/soapui/)
+- [GraphQL Voyager](https://apis.guru/graphql-voyager/)
+- [Kiterunner](https://github.com/assetnote/kiterunner)
+- [unfurl](https://github.com/tomnomnom/unfurl)
 
 
 ## 🚪 Second gate: ```{{Exploitation}}```
