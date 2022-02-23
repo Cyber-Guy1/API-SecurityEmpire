@@ -5,3 +5,17 @@
 </div>
 <br>
 In this repository you will find: Mindmaps, tips & tricks, resources and every thing related to API Security and API Penetration Testing. Our mindmaps and resources are based on OWASP TOP 10 API, our expereince in Penetration testing and other resources to deliver the most advanced and accurate API security and penetration testing resource in the WEB!!
+
+## First gate: ```{{Recon}}```
+
+The first gate to enter the API Security Empire is to know how to gather information about the API infrastructure and how to perform a powerfull recon on API to extract the hidden doors which made you compromise the whole infrastructure from, so, we provide this updated API Recon mindmap with the latest tools and methodologies in API recon:
+
+<br>
+
+<div align="center">
+<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%">
+</div>
+<br>
+
+## Second gate: ```{{Exploitation}}```
+Coming soon ...
