@@ -18,7 +18,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 </div>
 <br>
 
-### ⚔️ Weapons you will need 
+### ⚔️ Weapons you will need: 
 - [BurpSuite](https://portswigger.net/burp/releases)
 - [FFUF](https://github.com/ffuf/ffuf)
 - [Arjun](https://github.com/InsiderPhD/Arjun)
@@ -29,7 +29,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 - [Kiterunner](https://github.com/assetnote/kiterunner)
 - [unfurl](https://github.com/tomnomnom/unfurl)
 
-### 🥷 Test your abilities and weapons 
+### 🥷 Test your abilities and weapons: 
 - [vapi](https://github.com/roottusk/vapi)
 
 ## 🚪 Second gate: ```{{Exploitation}}```
