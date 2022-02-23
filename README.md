@@ -48,3 +48,7 @@ Preparing ...
 ## 📝 License:
 
 <img src="https://user-images.githubusercontent.com/97954690/155418561-30c6292d-877c-4acf-ac90-531d8661a455.png" width="20%" height="20%">
+
+## Our HACKERS! 🐱‍💻
+- Lucas Lundgren [Twitter](https://twitter.com/acidgen) [LinkedIn](https://www.linkedin.com/in/lucaslundgren/)
+- Momen Eldawakhly (CyberGuy) [Twitter](https://twitter.com/thecyberguy0) [LinkedIn](https://www.linkedin.com/in/momen-eldawakhly-3b6250204/)
