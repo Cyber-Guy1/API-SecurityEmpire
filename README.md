@@ -32,6 +32,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 
 ### 🥷 Test your abilities and weapons: 
 - [vapi](https://github.com/roottusk/vapi)
+- [Generic-University](https://github.com/InsiderPhD/Generic-University)
 
 ## 🚪 Second gate: ```{{Attacking}}```
 
