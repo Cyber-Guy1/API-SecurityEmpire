@@ -39,7 +39,10 @@ The first gate to enter the API Security Empire is to know how to gather informa
 
 <div align="center">
 <img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png" width="50%" height="50%">
-</div><small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf">PDF Version</a></b></small><br>
+<br>
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf">PDF Version</a></b></small>
+</div>
+<br>
 
 ### Attacking GraphQL:
 
