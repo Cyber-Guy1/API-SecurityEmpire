@@ -12,9 +12,9 @@ The first gate to enter the API Security Empire is to know how to gather informa
 <br>
 
 <div align="center">
-<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%">
+<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%" target="_blank">
   
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.xmind">XMind Version</a></b></small>
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.xmind" target="_blank">XMind Version</a></b></small>
 </div>
 <br>
 
@@ -39,9 +39,9 @@ The first gate to enter the API Security Empire is to know how to gather informa
 ### Attacking RESTful & SOAP:
 
 <div align="center">
-<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png">
+<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png" target="_blank">
 <br>
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.xmind">XMind Version</a></b></small>
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.xmind" target="_blank">XMind Version</a></b></small>
 </div>
 <br>
 
@@ -61,7 +61,7 @@ Preparing ...
 
 ## 📝 License:
 
-<img src="https://user-images.githubusercontent.com/97954690/155418561-30c6292d-877c-4acf-ac90-531d8661a455.png" width="20%" height="20%">
+<img src="https://user-images.githubusercontent.com/97954690/155418561-30c6292d-877c-4acf-ac90-531d8661a455.png" width="20%" height="20%" target="_blank">
 
 ## Our HACKERS! 🐱‍💻
 - Lucas Lundgren [Twitter](https://twitter.com/acidgen) [LinkedIn](https://www.linkedin.com/in/lucaslundgren/)
