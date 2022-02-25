@@ -33,8 +33,11 @@ The first gate to enter the API Security Empire is to know how to gather informa
 ### 🥷 Test your abilities and weapons: 
 - [vapi](https://github.com/roottusk/vapi)
 
-## 🚪 Second gate: ```{{Exploitation}}```
-Preparing ...
+## 🚪 Second gate: ```{{Attacking}}```
+
+### Attacking RESTful & SOAP:
+
+### Attacking GraphQL:
 
 ## 🙏 Special thanks:
 - [roottusk](https://github.com/roottusk)
