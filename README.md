@@ -14,7 +14,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 <div align="center">
 <img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%">
   
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf">PDF Version</a></b></small>
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.xmind">XMind Version</a></b></small>
 </div>
 <br>
 
@@ -40,7 +40,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 <div align="center">
 <img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png">
 <br>
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf">PDF Version</a></b></small>
+<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.xmind">XMind Version</a></b></small>
 </div>
 <br>
 
