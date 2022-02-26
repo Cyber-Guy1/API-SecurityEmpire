@@ -47,7 +47,14 @@ The first gate to enter the API Security Empire is to know how to gather informa
 
 ### Attacking GraphQL:
 
-Preparing ...
+Due to the limited attacks in the GraphQL we tried to generate all the possible attacks due to our experience in testing APIs in the coming mindmap:
+
+<div align="center">
+<img src="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20%7B%7BGraphQL%20Attacking%7D%7D.png">
+<br>
+<small><b><a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20%7B%7BGraphQL%20Attacking%7D%7D.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20%7B%7BGraphQL%20Attacking%7D%7D.xmind" target="_blank">XMind Version</a></b></small>
+</div>
+<br>
 
 ## 🙏 Special thanks:
 - [roottusk](https://github.com/roottusk)
