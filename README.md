@@ -14,9 +14,9 @@ The first gate to enter the API Security Empire is to know how to gather informa
 <br>
 
 <div align="center">
-<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%" target="_blank">
+<img src="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.png" width="70%" height="70%" target="_blank">
   
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.xmind" target="_blank">XMind Version</a></b></small>
+<small><b><a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap.xmind" target="_blank">XMind Version</a></b></small>
 </div>
 <br>
 
@@ -32,7 +32,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 - [Kiterunner](https://github.com/assetnote/kiterunner)
 - [unfurl](https://github.com/tomnomnom/unfurl)
 
-### 🥷 Test your abilities and weapons: 
+### 🏋️ Test your abilities and weapons: 
 - [vapi](https://github.com/roottusk/vapi)
 - [Generic-University](https://github.com/InsiderPhD/Generic-University)
 
@@ -41,9 +41,9 @@ The first gate to enter the API Security Empire is to know how to gather informa
 ### Attacking RESTful & SOAP:
 
 <div align="center">
-<img src="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png" target="_blank">
+<img src="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.png" target="_blank">
 <br>
-<small><b><a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/cyprosecurity/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.xmind" target="_blank">XMind Version</a></b></small>
+<small><b><a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.pdf" target="_blank">PDF Version</a> | <a href="https://github.com/Cyber-Guy1/API-SecurityEmpire/blob/main/assets/API%20Pentesting%20Mindmap%20ATTACK.xmind" target="_blank">XMind Version</a></b></small>
 </div>
 <br>
 
