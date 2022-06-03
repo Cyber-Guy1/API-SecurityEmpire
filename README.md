@@ -29,6 +29,7 @@ The first gate to enter the API Security Empire is to know how to gather informa
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 - [SoapUI](https://www.soapui.org/downloads/soapui/)
 - [GraphQL Voyager](https://apis.guru/graphql-voyager/)
+- [Graphinder](https://github.com/Escape-Technologies/graphinder)
 - [Kiterunner](https://github.com/assetnote/kiterunner)
 - [unfurl](https://github.com/tomnomnom/unfurl)
 
