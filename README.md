@@ -59,6 +59,10 @@ Due to the limited attacks in the GraphQL we tried to generate all the possible 
 </div>
 <br>
 
+While attacking GraphQL, the most important phase is the enumeration of mutations and queries, without which you will not be able to perform full GraphQL testing, to do so, I'm using the *Apollo GraphQL Sandbox*, Apollo enumerates the queries and mutations, then sorting them in front of you, after that you can chose the action you want to perform using mutations or the data you want to retrive using queries by just chosing them via GUI and Apollo will write down the query automatically. What makes Apollo special is that it's a web based explorer, which means no need to install and you can run it against your local GraphQl too!!
+
+- [Apollo Sandbox](https://studio.apollographql.com/sandbox/explorer)
+
 ## 🙏 Special thanks:
 - [roottusk](https://github.com/roottusk)
 - [Portswigger](https://github.com/PortSwigger)
