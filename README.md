@@ -1,6 +1,6 @@
 # 🛡️ API Security Empire 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/97954690/155410683-cebe5773-03b3-4b52-92d2-939e28305a0f.png" width="70%" height="70%">
+<img src="https://github.com/Cyber-Guy1/API-SecurityEmpire/assets/66295316/8b741387-350f-4a61-bce1-d29c6a9ac27d" width="60%" height="60%">
   <br>
   <small>Project Credits: <a href="https://www.linkedin.com/in/momen-eldawakhly-3b6250204">Momen Eldawakhly (Cyber Guy)</a></small>
 </div>
